@@ -6,6 +6,8 @@ permalink: /tournament/
 
 * Ranking
 * Rules
+* Prizes
+  * Most Interesting Strategy Agent Prize
 {:toc .large-only}
 
 Agents will be evaluated based on their average ranking over several
@@ -39,3 +41,18 @@ some specific other agent
 5. Accessing parts of the simulation or modifying parts of the simulation including:
    1. the core simulation,
    2. vessels, trades, your competitors or any other parts that are not part of your implemented agents class.
+
+# Prizes
+
+The first three teams according to the average tournament ranking will receive a certificate and a cash prize.
+The overall winner will receive £500, the runner-up will receive £300 and the team placing third will receive £100.
+
+Additionally, the winner of the *most interesting strategy agent* prize will receive £100.
+
+## Most Interesting Strategy Agent Prize
+
+Besides the agents' tournament, teams also have the opportunity to receive the most interesting strategy agent prize.
+For this prize we will evaluate the reports that are submitted with the agents as well as the presentations during the competition session.
+We will award this prize after a deliberation by a panel following the presentations.
+Therefore only those teams that present their work are eligible for this prize.
+The most important criterion for the award will be the innovation of the presented strategy.

@@ -12,3 +12,13 @@ Further details on starting to develop an agent can be found in the getting star
 
 For the submission, agents need to be accompanied by a report (see Section~\ref{sec:report}).
 Please submit your agent and the report together in one zip file by the deadline.
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+[Getting Started Guide]
