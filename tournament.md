@@ -37,7 +37,7 @@ Additionally, the following behaviours are strictly prohibited:
 some specific other agent
 2. Starting new Threads/Processes
 3. Hacking the API in any way
-4. Access private fields, i.e. any field that starts with an underscore, e.g. \_name.
+4. Access private fields, i.e. any field that starts with an underscore, e.g. _name.
 5. Accessing parts of the simulation or modifying parts of the simulation including:
    1. the core simulation,
    2. vessels, trades, your competitors or any other parts that are not part of your implemented agents class.
@@ -47,7 +47,7 @@ some specific other agent
 The first three teams according to the average tournament ranking will receive a certificate and a cash prize.
 The overall winner will receive £500, the runner-up will receive £300 and the team placing third will receive £100.
 
-Additionally, the winner of the *most interesting strategy agent* prize will receive £100.
+Additionally, the team with the *most interesting strategy agent* prize will receive £100.
 
 ## Most Interesting Strategy Agent Prize
 

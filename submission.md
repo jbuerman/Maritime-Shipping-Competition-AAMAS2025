@@ -4,13 +4,25 @@ title: Submission
 permalink: /submission/
 ---
 
+# Packaging
+
+All your code should be placed in a module called `groupn`, i.e. a file called `groupn.py`, where `n` is the group number that will be allocated to you.
+The main agent class (being a subclass of `TradingCompany`) as described in the getting started section, should be named `Companyn`, where `n` is again your group number.
+For example, for group `5`, the resulting qualified name of the agent object becomes `group5.Company5`.
+
+The warm-up competition requires only the software agent and the final submission requires the agents and an accompanying report.
+
+# Group Number
+
+Please email us at <email> to receive your group number.
+
 # Warm-Up competition
 
 Please submit your agent here: TBA
 
 # Final Submission
 
-Please submit your agent and your report here: TBA
+Please submit your agent and your report as a zip archive here: TBA
 
 ## Report
 

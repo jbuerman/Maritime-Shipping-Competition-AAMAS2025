@@ -6,6 +6,18 @@ layout: home
 cover:  true
 ---
 
+<style>
+  .highlight-box {
+      background: #fffbcc;
+      border-left: 4px solid #ffcc00;
+      padding: 8px;
+      margin: 10px 0;
+  }
+</style>
+
+{: .highlight-box}
+**Important:** This is a draft website and not an active competition.
+
 Welcome to the Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025).
 Participating in the competition requires you to design a software agent that applies innovative ideas for auction bidding and transport scheduling to simulate a maritime transport company.
 Participating allows you to compete for three performance-based prices and an innovative idea price.
