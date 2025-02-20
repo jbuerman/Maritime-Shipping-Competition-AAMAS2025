@@ -22,8 +22,8 @@ title: Maritime Shipping Competition 2025
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   An agent-based bidding and transport scheduling competition running at AAMAS 2025.
-baseurl: "/Maritime-Shipping-Competition-AAMAS2025" # the subpath of your site, e.g. /blog
-url: "https://jbuerman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Maritime-Shipping-Competition-AAMAS2025"
+url: "https://jbuerman.github.io"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 

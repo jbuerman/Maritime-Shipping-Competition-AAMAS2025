@@ -17,11 +17,11 @@ Many of these digital solutions are in their infancy and could benefit from inno
 
 Are you a researcher or practitioner interested in better maritime transportation and/or experienced in any of the approached and want to compete for the price, then read on.
 
-If you are interested in the platform we will use to run the competition, its called MABLE and more information can be found under [MABLE](/mable).
+If you are interested in the platform we will use to run the competition, its called MABLE and more information can be found under [MABLE]({{ "/mable" | relative_url }}).
 
-If you are interested in the tournament and its rules look at [Tournament](/tournament).
+If you are interested in the tournament and its rules look at [Tournament]({{ "/tournament" | relative_url }}).
 
-If you want to get started with development, check [Developing and Agent](/agentdev).
+If you want to get started with development, check [Developing and Agent]({{ "/agentdev" | relative_url }}).
 
 If you want to forward the call for contribution see [Call for Contribution]({{ site.baseurl }}{% post_url 2025-02-10-call-for-contribution %}).
 
