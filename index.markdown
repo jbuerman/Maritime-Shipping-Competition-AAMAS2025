@@ -44,9 +44,9 @@ For the complete timeline see below.
 # Timeline
 
 | Event									 | Date	 |
-| ------------------------------------------------------------------------------ | -----------   |
-| Warm-up Competition Submission Deadline					 | 24/03/2025    |
-| Warm-up Competition Results Release						 | 07/04/2025    |
-| Competition Submission Deadline						 | 28/04/2025    |
-| Announcement of Presentation Slots						 | 05/05/2025    |
-| Competition Results Presentation and Winner Announcement (at AAMAS 2025)	 | 19/20/05/2025 |
+| ------------------------------------------------------------------------------ | ---------------- |
+| Warm-up Competition Submission Deadline					 | 24/03/2025       |
+| Warm-up Competition Results Release						 | 07/04/2025       |
+| Competition Submission Deadline						 | 28/04/2025	    |
+| Announcement of Presentation Slots						 | 05/05/2025 	    |
+| Competition Results Presentation and Winner Announcement (at AAMAS 2025)	 | 19 or 20/05/2025 |

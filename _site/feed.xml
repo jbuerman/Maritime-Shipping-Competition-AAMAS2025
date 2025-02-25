@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/" rel="alternate" type="text/html" /><updated>2025-02-20T14:23:46+00:00</updated><id>http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/feed.xml</id><title type="html">Maritime Shipping Competition 2025</title><subtitle>An agent-based bidding and transport scheduling competition running at AAMAS 2025.</subtitle><entry><title type="html">Call for Contribution</title><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution.html" rel="alternate" type="text/html" title="Call for Contribution" /><published>2025-02-10T12:00:00+00:00</published><updated>2025-02-10T12:00:00+00:00</updated><id>http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution</id><content type="html" xml:base="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution.html"><![CDATA[<h1 id="call-for-contributions-maritime-shipping-competition-msc-at-the-24th-international-conference-on-autonomous-agents-and-multiagent-systems-aamas-2025">Call for Contributions: Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/" rel="alternate" type="text/html" /><updated>2025-02-25T12:29:41+00:00</updated><id>http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/feed.xml</id><title type="html">Maritime Shipping Competition 2025</title><subtitle>An agent-based bidding and transport scheduling competition running at AAMAS 2025.</subtitle><entry><title type="html">Call for Participation</title><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution.html" rel="alternate" type="text/html" title="Call for Participation" /><published>2025-02-10T12:00:00+00:00</published><updated>2025-02-10T12:00:00+00:00</updated><id>http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution</id><content type="html" xml:base="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution.html"><![CDATA[<h1 id="call-for-participation-maritime-shipping-competition-msc-at-the-24th-international-conference-on-autonomous-agents-and-multiagent-systems-aamas-2025">Call for Participation: Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</h1>
+
+<p>Join us in pushing the boundaries of digital solutions for maritime transport and be part of an exciting challenge at AAMAS 2025!</p>
 
 <p>We are excited to invite researchers and practitioners to participate in the Maritime Shipping Competition (MSC), hosted as part of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), taking place on 19th or 20th of May 2025 in Detroit, Michigan, USA.
-This competition provides an opportunity to showcase and compare innovative approaches in auction bidding and transporations scheduling.</p>
+This competition provides an opportunity to showcase and compare innovative approaches in auction bidding and transpiration scheduling.</p>
 
 <h2 id="about-the-competition">About the Competition</h2>
 
@@ -10,7 +12,7 @@ While the sector has shown growth in recent years, maritime transportation is al
 Shipping companies are investigating digital solutions, including digital twin and multi-agent technologies, to improve fleet utilisation, e.g. via transportation scheduling, to reduce costs but also greenhouse gas emissions.
 Many of these digital solutions are in their infancy and could benefit from innovative applications of approaches from multiagent system, artificial intelligence, scheduling, auction bidding and related technologies.</p>
 
-<p>The competition will require to develop a software agent in Python that operates the trade auctions and fleet trasnportation scheduling for a maritime shipping company.
+<p>The competition will require to develop a software agent in Python that operates the trade auctions and fleet transmutation scheduling for a maritime shipping company.
 Participating will allow you to compete for prizes.</p>
 
 <p>We will run a warm-up competition to get early feedback and a final competition with results being presented at AAMAS.</p>
@@ -25,7 +27,7 @@ Participants are required to submit an agent implemented in Python and a short 2
   <li>Warm-up Competition Results Release: 07/04/2025</li>
   <li>Competition Submission Deadline: 28/04/2025</li>
   <li>Announcement of Presentation Slots: 05/05/2025</li>
-  <li>Competition Results Presentation and Winner Announcement: 19/20/05/2025</li>
+  <li>Competition Results Presentation and Winner Announcement: 19 or 20/05/2025</li>
 </ul>
 
 <p>Submissions should be made via <email>, following the instructions provided at https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/</email></p>
@@ -33,11 +35,11 @@ Participants are required to submit an agent implemented in Python and a short 2
 <h2 id="competition-session-at-aamas">Competition Session at AAMAS</h2>
 
 <p>All teams will have the opportunity to present their agent and strategy at the session at AAMAS 2025.
-A presentation will be necessary to compete for the innivative ideas prize.</p>
+A presentation will be necessary to compete for the innovative ideas prize.</p>
 
 <h2 id="awards--recognition">Awards &amp; Recognition</h2>
 
-<p>The competition will feature certificates and performance based prizes and a prize for an innivative ideas.</p>
+<p>The competition will feature certificates and performance based prizes and a prize for an innovative ideas.</p>
 
 <p>The first three teams according to the average tournament ranking will receive a certificate and a cash prize.
 The overall winner will receive £500, the runner-up will receive £300 and the team placing third will receive £100.</p>
@@ -50,9 +52,7 @@ This prize will be judged on the day of the competition at AAMAS after the prese
 <p>To participate, please visit https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/ for detailed guidelines.
 For any inquiries, contact us at <email>.</email></p>
 
-<p>Join us in pushing the boundaries of digital solutions for maritime transport and be part of an exciting challenge at AAMAS 2025!</p>
-
-<p>Organizing Committee</p>
+<p>Organising Committee</p>
 
 <ul>
   <li>Enrico Gerding, University of Southampton, UK</li>
@@ -61,4 +61,4 @@ For any inquiries, contact us at <email>.</email></p>
   <li>Jan Buermann, University of Southampton, UK</li>
 </ul>
 
-<p>The competition and prizes are made possible thanks to the Centre for Maritime Futures at the University of Southampton with support from Shell plc.</p>]]></content><author><name></name></author><category term="call" /><category term="update" /><summary type="html"><![CDATA[Call for Contributions: Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)]]></summary></entry></feed>
+<p>The competition and prizes are made possible thanks to the Centre for Maritime Futures at the University of Southampton with support from Shell plc.</p>]]></content><author><name></name></author><category term="call" /><category term="update" /><summary type="html"><![CDATA[Call for Participation: Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)]]></summary></entry></feed>
