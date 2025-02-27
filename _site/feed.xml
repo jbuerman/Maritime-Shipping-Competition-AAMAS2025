@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/" rel="alternate" type="text/html" /><updated>2025-02-26T23:31:41+00:00</updated><id>http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/feed.xml</id><title type="html">Maritime Shipping Competition 2025</title><subtitle>An agent-based bidding and transport scheduling competition running at AAMAS 2025.</subtitle><entry><title type="html">Call for Participation</title><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution.html" rel="alternate" type="text/html" title="Call for Participation" /><published>2025-02-10T12:00:00+00:00</published><updated>2025-02-10T12:00:00+00:00</updated><id>http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution</id><content type="html" xml:base="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution.html"><![CDATA[<h1 id="call-for-participation-maritime-shipping-competition-msc-at-the-24th-international-conference-on-autonomous-agents-and-multiagent-systems-aamas-2025">Call for Participation: Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/" rel="alternate" type="text/html" /><updated>2025-02-27T14:52:52+00:00</updated><id>http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/feed.xml</id><title type="html">Maritime Shipping Competition 2025</title><subtitle>An agent-based bidding and transport scheduling competition running at AAMAS 2025.</subtitle><entry><title type="html">Call for Participation</title><link href="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution.html" rel="alternate" type="text/html" title="Call for Participation" /><published>2025-02-10T12:00:00+00:00</published><updated>2025-02-10T12:00:00+00:00</updated><id>http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution</id><content type="html" xml:base="http://localhost:4000/Maritime-Shipping-Competition-AAMAS2025/call/update/2025/02/10/call-for-contribution.html"><![CDATA[<h1 id="call-for-participation-maritime-shipping-competition-msc-at-the-24th-international-conference-on-autonomous-agents-and-multiagent-systems-aamas-2025">Call for Participation: Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</h1>
 
 <p>Join us in pushing the boundaries of digital solutions for maritime transport and be part of an exciting challenge at AAMAS 2025!</p>
 
@@ -30,7 +30,7 @@ Participants are required to submit an agent implemented in Python and a short 2
   <li>Competition Results Presentation and Winner Announcement: 19 or 20/05/2025</li>
 </ul>
 
-<p>Submissions should be made via <email>, following the instructions provided at https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/</email></p>
+<p>Submissions should be made via msc.aamas2025@soton.ac.uk, following the instructions provided at https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/</p>
 
 <h2 id="competition-session-at-aamas">Competition Session at AAMAS</h2>
 
@@ -50,7 +50,7 @@ This prize will be judged on the day of the competition at AAMAS after the prese
 <h2 id="how-to-get-involved">How to Get Involved</h2>
 
 <p>To participate, please visit https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/ for detailed guidelines.
-For any inquiries, contact us at <email>.</email></p>
+For any inquiries, contact us at msc.aamas2025@soton.ac.uk.</p>
 
 <p>Organising Committee</p>
 
