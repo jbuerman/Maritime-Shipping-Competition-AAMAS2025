@@ -15,8 +15,8 @@ cover:  true
   }
 </style>
 
-{: .highlight-box}
-**Important:** This is a draft website and not an active competition.
+# {: .highlight-box}
+# **Important:** This is a draft website and not an active competition.
 
 Welcome to the Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025).
 Participating in the competition requires you to design a software agent that applies innovative ideas for auction bidding and transport scheduling to simulate a maritime transport company.
@@ -35,7 +35,7 @@ If you are interested in the tournament and its rules look at [Tournament]({{ "/
 
 If you want to get started with development, check [Developing and Agent]({{ "/agentdev" | relative_url }}).
 
-If you want to forward the call for contribution see [Call for Contribution]({{ site.baseurl }}{% post_url 2025-02-10-call-for-contribution %}).
+If you want to forward the call for contribution see [Call for Participation]({{ site.baseurl }}{% post_url 2025-02-10-call-for-contribution %}).
 
 Besides the final tournament we will be running a warm-up competition towards the end of May/the beginning of April for you to see how your agent is competing against other participants.
 
@@ -50,3 +50,5 @@ For the complete timeline see below.
 | Competition Submission Deadline						 | 28/04/2025	    |
 | Announcement of Presentation Slots						 | 05/05/2025 	    |
 | Competition Results Presentation and Winner Announcement (at AAMAS 2025)	 | 19 or 20/05/2025 |
+
+All submission dates are 23:59h AoE (Anywhere on Earth).

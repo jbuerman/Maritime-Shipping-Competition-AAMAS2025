@@ -35,7 +35,9 @@ Participants are required to submit an agent implemented in Python and a short 2
 - Announcement of Presentation Slots: 05/05/2025
 - Competition Results Presentation and Winner Announcement: 19 or 20/05/2025
 
-Submissions should be made via msc.aamas2025@soton.ac.uk, following the instructions provided at https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/
+Submissions should be made via msc.aamas2025@soton.ac.uk, following the instructions provided at https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/.
+
+All submission dates are 23:59h AoE (Anywhere on Earth).
 
 ## Competition Session at AAMAS
 

@@ -14,7 +14,7 @@ The warm-up competition requires only the software agent and the final submissio
 
 # Group Number
 
-Please email us at <email> to receive your group number.
+Please email us at [msc.aamas2025@soton.ac.uk](mailto:msc.aamas2025@soton.ac.uk) to receive your group number.
 
 # Warm-Up competition
 
@@ -26,4 +26,5 @@ Please submit your agent and your report as a zip archive here: TBA
 
 ## Report
 
-Each team needs to submit a report of 2 - 4 pages in the default AAMAS 2025 template, following academic standards, including abstract, related literature and the agent description. The description should cover the overall design of the agent including various aspects of the strategy (e.g. the scheduling strategy, how your agent deals with trade and competitor uncertainty, the bidding strategy, etc.), using pseudocode where applicable.
+Each team needs to submit a report of 2 - 4 pages in the default [AAMAS 2025 template](https://aamas2025.org/index.php/conference/calls/submission-instructions-main-technical-track/){:target="_blank"}, following academic standards, including abstract, related literature and the agent description.
+The description should cover the overall design of the agent including various aspects of the strategy (e.g. the scheduling strategy, how your agent deals with trade and competitor uncertainty, the bidding strategy, etc.), using pseudocode where applicable.
