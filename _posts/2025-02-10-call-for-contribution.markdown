@@ -9,7 +9,7 @@ categories: call update
 
 Join us in pushing the boundaries of digital solutions for maritime transport and be part of an exciting challenge at AAMAS 2025!
 
-We are excited to invite researchers and practitioners to participate in the Maritime Shipping Competition (MSC), hosted as part of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), taking place on 19th or 20th of May 2025 in Detroit, Michigan, USA.
+We are excited to invite researchers and practitioners to participate in the Maritime Shipping Competition (MSC), hosted as part of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), with final presentations taking place on 19th or 20th of May 2025 in Detroit, Michigan, USA.
 This competition provides an opportunity to showcase and compare innovative approaches in auction bidding and transpiration scheduling.
 
 ## About the Competition
