@@ -59,7 +59,7 @@ This prize will be judged on the day of the competition at AAMAS after the prese
 To participate, please visit https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/ for detailed guidelines.
 For any inquiries, contact us at msc.aamas2025@soton.ac.uk.
 
-Organising Committee
+## Organising Committee
 
 - Enrico Gerding, University of Southampton, UK
 - Enrico Marchioni, University of Southampton, UK
