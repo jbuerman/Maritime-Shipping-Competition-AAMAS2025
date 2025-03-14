@@ -10,7 +10,7 @@ categories: call update
 Join us in pushing the boundaries of digital solutions for maritime transport and be part of an exciting challenge at AAMAS 2025!
 
 We are excited to invite researchers and practitioners to participate in the Maritime Shipping Competition (MSC), hosted as part of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), with final presentations taking place on 19th or 20th of May 2025 in Detroit, Michigan, USA.
-This competition provides an opportunity to showcase and compare innovative approaches in auction bidding and transpiration scheduling.
+This competition provides an opportunity to showcase and compare innovative approaches in auction bidding and transportation scheduling.
 
 ## About the Competition
 
@@ -59,7 +59,7 @@ This prize will be judged on the day of the competition at AAMAS after the prese
 To participate, please visit [https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/](https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/){:target="_blank"} for detailed guidelines.
 For any inquiries, contact us at [msc.aamas2025@soton.ac.uk](mailto:msc.aamas2025@soton.ac.uk).
 
-## Organising Committee
+## [Organising Committee]({{ "/organisingcommittee" | relative_url }})
 
 - Enrico Gerding, University of Southampton, UK
 - Enrico Marchioni, University of Southampton, UK

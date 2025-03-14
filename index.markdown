@@ -54,3 +54,5 @@ For the complete timeline see below.
 | Competition Results Presentation and Winner Announcement (at AAMAS 2025)	 | 19 or 20/05/2025 |
 
 All submission dates are 23:59h AoE (Anywhere on Earth).
+
+Contact us: [msc.aamas2025@soton.ac.uk](mailto:msc.aamas2025@soton.ac.uk)

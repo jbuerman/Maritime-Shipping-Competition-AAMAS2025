@@ -69,3 +69,7 @@ menu:
       url:   /submission/
     - title: News
       url: /news/
+    - title: Organising Committee
+      url: /organisingcommittee/
+    - title: msc.aamas2025[at]soton.ac.uk
+      url: mailto:msc.aamas2025@soton.ac.uk
