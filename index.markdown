@@ -15,11 +15,6 @@ cover:  true
   }
 </style>
 
-<!--
-{: .highlight-box}
-**Important:** This is a draft website and not an active competition.
--->
-
 Welcome to the Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025).
 Participating in the competition requires you to design a software agent that applies innovative ideas for auction bidding and transport scheduling to simulate a maritime transport company.
 Participating allows you to compete for three performance-based prices and an innovative idea price.
@@ -32,6 +27,9 @@ Many of these digital solutions are in their infancy and could benefit from inno
 Are you a researcher or practitioner interested in better maritime transportation and/or experienced in any of the approached and want to compete for the price, then read on.
 
 If you would like to participate, please fill in [this form](https://forms.office.com/e/FwzZczMtM1){:target="_blank"} to pre-register and receive a group number.
+
+{: .highlight-box}
+**Attendance at AAMAS:** If you want to attend the competition session at AAMAS, which is required for giving the presentation to compete for the [*Most Interesting Strategy Agent Prize*]({{ "/tournament/#most-interesting-strategy-agent-prize" | relative_url }}), it is necessary to register for Workshop & Tutorial Day 2 (20/05/2025).
 
 If you would like some additional information before you pre-register please have a look at the following links.
 - If you are interested in the platform we will use to run the competition, its called MABLE and more information can be found under [MABLE]({{ "/mable" | relative_url }}).
@@ -46,13 +44,13 @@ For the complete timeline see below.
 
 # Timeline
 
-| Event									 | Date	 |
-| ------------------------------------------------------------------------------ | ---------------- |
-| Warm-up Competition Submission Deadline					 | 24/03/2025       |
-| Warm-up Competition Results Release						 | 07/04/2025       |
-| Competition Submission Deadline						 | 28/04/2025	    |
-| Announcement of Presentation Slots						 | 05/05/2025 	    |
-| Competition Results Presentation and Winner Announcement (at AAMAS 2025)	 | 19 or 20/05/2025 |
+| Event										 | Date		 |
+| ------------------------------------------------------------------------------ | ------------- |
+| Warm-up Competition Submission Deadline					 | 24/03/2025	 |
+| Warm-up Competition Results Release						 | 07/04/2025	 |
+| Competition Submission Deadline						 | 28/04/2025	 |
+| Announcement of Presentation Slots						 | 05/05/2025	 |
+| Competition Results Presentation and Winner Announcement (at AAMAS 2025)	 | 20/05/2025	 |
 
 All submission dates are 23:59h AoE (Anywhere on Earth).
 
