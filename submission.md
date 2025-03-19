@@ -12,9 +12,9 @@ For example, for group `5`, the resulting qualified name of the agent object bec
 
 The warm-up competition requires only the software agent and the final submission requires the agents and an accompanying report.
 
-# Group Number
+# Pre-Registration and Group Number
 
-Please email us at [msc.aamas2025@soton.ac.uk](mailto:msc.aamas2025@soton.ac.uk) to receive your group number.
+Please fill in [this form](https://forms.office.com/e/FwzZczMtM1){:target="_blank"} to pre-register and receive your group number.
 
 # Warm-Up competition
 

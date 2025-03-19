@@ -31,15 +31,16 @@ Many of these digital solutions are in their infancy and could benefit from inno
 
 Are you a researcher or practitioner interested in better maritime transportation and/or experienced in any of the approached and want to compete for the price, then read on.
 
-If you are interested in the platform we will use to run the competition, its called MABLE and more information can be found under [MABLE]({{ "/mable" | relative_url }}).
+If you would like to participate, please fill in [this form](https://forms.office.com/e/FwzZczMtM1){:target="_blank"} to pre-register and receive a group number.
 
-If you are interested in the tournament and its rules look at [Tournament]({{ "/tournament" | relative_url }}).
+If you would like some additional information before you pre-register please have a look at the following links.
+- If you are interested in the platform we will use to run the competition, its called MABLE and more information can be found under [MABLE]({{ "/mable" | relative_url }}).
+- If you are interested in the tournament and its rules, look at [Tournament]({{ "/tournament" | relative_url }}).
+- If you want to get started with development, check [Developing and Agent]({{ "/agentdev" | relative_url }}).
+- If you want to forward the call for contribution, see [Call for Participation]({{ site.baseurl }}{% post_url 2025-02-10-call-for-contribution %}).
+- If you are looking for information on how to submit, please have a look at [Submission]({{ "/submission" | relative_url }}).
 
-If you want to get started with development, check [Developing and Agent]({{ "/agentdev" | relative_url }}).
-
-If you want to forward the call for contribution see [Call for Participation]({{ site.baseurl }}{% post_url 2025-02-10-call-for-contribution %}).
-
-Besides the final tournament we will be running a warm-up competition towards the end of May/the beginning of April for you to see how your agent is competing against other participants.
+Besides the final tournament we will be running a warm-up competition towards the end of March/the beginning of April for you to see how your agent is competing against other participants.
 
 For the complete timeline see below.
 
