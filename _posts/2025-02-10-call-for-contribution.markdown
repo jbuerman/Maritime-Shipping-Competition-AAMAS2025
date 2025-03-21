@@ -9,7 +9,7 @@ categories: call update
 
 Join us in pushing the boundaries of digital solutions for maritime transport and be part of an exciting challenge at AAMAS 2025!
 
-We are excited to invite researchers and practitioners to participate in the Maritime Shipping Competition (MSC), hosted as part of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), with final presentations taking place on 19th or 20th of May 2025 in Detroit, Michigan, USA.
+We are excited to invite researchers and practitioners to participate in the Maritime Shipping Competition (MSC), hosted as part of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), with final presentations taking place on the 20th of May 2025 in Detroit, Michigan, USA.
 This competition provides an opportunity to showcase and compare innovative approaches in auction bidding and transportation scheduling.
 
 ## About the Competition
@@ -33,7 +33,7 @@ Participants are required to submit an agent implemented in Python and a short 2
 - Warm-up Competition Results Release: 07/04/2025
 - Competition Submission Deadline: 28/04/2025
 - Announcement of Presentation Slots: 05/05/2025
-- Competition Results Presentation and Winner Announcement: 19 or 20/05/2025
+- Competition Results Presentation and Winner Announcement: 20/05/2025
 
 Submissions should be made via [msc.aamas2025@soton.ac.uk](mailto:msc.aamas2025@soton.ac.uk), following the instructions provided at [https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/](https://jbuerman.github.io/Maritime-Shipping-Competition-AAMAS2025/){:target="_blank"}.
 
