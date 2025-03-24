@@ -67,6 +67,8 @@ menu:
       url:   /agentdev/
     - title: Submission
       url:   /submission/
+    - title: FAQ
+      url: /faq/
     - title: News
       url: /news/
     - title: Organising Committee
