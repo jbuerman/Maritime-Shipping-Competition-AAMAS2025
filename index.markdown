@@ -15,6 +15,9 @@ cover:  true
   }
 </style>
 
+{: .highlight-box}
+*Warm-up Competition Submission Deadline extended*
+
 Welcome to the Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025).
 Participating in the competition requires you to design a software agent that applies innovative ideas for auction bidding and transport scheduling to simulate a maritime transport company.
 Participating allows you to compete for three performance-based prices and an innovative idea price.
