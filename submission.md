@@ -18,11 +18,11 @@ Please fill in [this form](https://forms.office.com/e/FwzZczMtM1){:target="_blan
 
 # Warm-Up competition
 
-Please submit your agent here: TBA
+Please submit your agent here: [msc.aamas2025@soton.ac.uk](mailto:msc.aamas2025@soton.ac.uk)
 
 # Final Submission
 
-Please submit your agent and your report as a zip archive here: TBA
+Please submit your agent and your report as a zip archive here: [msc.aamas2025@soton.ac.uk](mailto:msc.aamas2025@soton.ac.uk)
 
 ## Report
 
