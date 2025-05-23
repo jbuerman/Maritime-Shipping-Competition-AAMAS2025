@@ -61,6 +61,8 @@ favicon: /mable_favicon.png
 menu:
     - title: MABLE
       url:   /mable/
+    - title: Winners
+      url: /winners/
     - title: Tournament
       url:   /tournament/
     - title: Developing an Agent

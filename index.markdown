@@ -16,7 +16,7 @@ cover:  true
 </style>
 
 {: .highlight-box}
-*Warm-up Competition Submission Deadline extended*
+*The MSC competiton @ AAMAS 2025 has completed. You can find the winners [here]({{ "/winners" | relative_url }}).*
 
 Welcome to the Maritime Shipping Competition (MSC) at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025).
 Participating in the competition requires you to design a software agent that applies innovative ideas for auction bidding and transport scheduling to simulate a maritime transport company.
@@ -31,8 +31,8 @@ Are you a researcher or practitioner interested in better maritime transportatio
 
 If you would like to participate, please fill in [this form](https://forms.office.com/e/FwzZczMtM1){:target="_blank"} to pre-register and receive a group number.
 
-{: .highlight-box}
-**Attendance at AAMAS:** If you want to attend the competition session at AAMAS, which is required for giving the presentation to compete for the [*Most Interesting Strategy Agent Prize*]({{ "/tournament/#most-interesting-strategy-agent-prize" | relative_url }}), it is necessary to register for the Workshop & Tutorial Day 2 (20/05/2025).
+% {: .highlight-box}
+% **Attendance at AAMAS:** If you want to attend the competition session at AAMAS, which is required for giving the presentation to compete for the [*Most Interesting Strategy Agent Prize*]({{ "/tournament/#most-interesting-strategy-agent-prize" | relative_url }}), it is necessary to register for the Workshop & Tutorial Day 2 (20/05/2025).
 
 If you would like some additional information before you pre-register please have a look at the following links.
 - If you are interested in the platform we will use to run the competition, its called MABLE and more information can be found under [MABLE]({{ "/mable" | relative_url }}).
